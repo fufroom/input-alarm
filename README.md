@@ -2,7 +2,7 @@
 # Input Alarm
 
 **Tagline:**  
-*A simple command-line alarm tool for Linux featuring sound clips inspired by Johnny 5 from my favorite 80s movie Short Circuit.*
+*A simple command-line alarm tool for Linux featuring sound clips of Johnny 5 from my favorite 80s movie Short Circuit.*
 
 ---
 
